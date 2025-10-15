@@ -4,6 +4,6 @@ Just a counter
 
 ## Start / Запуск:
 
-### npm i
+### `npm i`
 
-### npm run start
+### `npm run start`
