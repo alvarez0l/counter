@@ -1,7 +1,9 @@
-Counter / Счетчик
+# Counter / Счетчик
 
-Запуск:
+Just a counter
 
-npm i
+## Start / Запуск:
 
-npm run start
+### npm i
+
+### npm run start
